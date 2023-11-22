@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "bus_location_app",
   "private": true,
   "scripts": {
     "build": "turbo build",
