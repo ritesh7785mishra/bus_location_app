@@ -17,5 +17,9 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "framer-motion": "^10.16.16",
+    "react-photo-gallery": "^8.0.0"
+  }
 }

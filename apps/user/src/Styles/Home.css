@@ -1,0 +1,16 @@
+.bus-marker {
+	background-image: url("../assets/bus-marker.png");
+	background-size: cover;
+	width: 28px;
+	height: 30px;
+	background-color: transparent;
+}
+
+.marker {
+	background-size: cover;
+	width: 30px;
+	height: 30px;
+	background-image: url("../assets/user.png");
+	background-color: transparent;
+	border-radius: 11px;
+}
