@@ -18,7 +18,5 @@
 		"apps/*",
 		"packages/*"
 	],
-	"dependencies": {
-		"framer-motion": "^10.16.16"
-	}
+	"dependencies": {}
 }

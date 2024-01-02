@@ -16,7 +16,8 @@
 		"react": "^18",
 		"react-dom": "^18",
 		"tailwind-config": "*",
-    "ui": "*"
+		"ui": "*",
+		"typescript-config": "*"
 	},
 	"devDependencies": {
 		"@types/node": "^20",
